@@ -4,7 +4,7 @@
 
 **Data Science M.Sc. student · Mobile & Software Engineer**
 
-📍 Germany &nbsp;|&nbsp; 🎓 TU Dortmund (M.Sc. Data Science) &nbsp;|&nbsp; 🏢 mechIC GmbH
+📍 Germany &nbsp;|&nbsp; 🎓 TU Dortmund (M.Sc. Data Science)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shawnmuktadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawnmuktadir/)
 
@@ -20,7 +20,7 @@ Before my master's, I built production mobile apps (Flutter/Dart, Kotlin, Java).
 
 - 🔭 Working on: data science and analytics projects, computer vision
 - 🌱 Learning: Bayesian modelling, advanced ML, and more
-- 💼 Previously: Research Assistant at **mechIC GmbH** (Flutter / NFC sensor apps, CI/CD), plus roles at Fiber@Home Global Ltd. and Ahsan Technologies Ltd.
+- 💼 Previously: Research Assistant at **mechIC GmbH** (Flutter / NFC sensor apps, GitLab CI/CD), and roles at Fiber@Home Global Ltd. and Ahsan Technologies Ltd.
 
 ---
 
