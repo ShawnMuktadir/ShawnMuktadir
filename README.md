@@ -18,7 +18,7 @@ I'm an M.Sc. Data Science candidate at **TU Dortmund** with 3+ years of professi
 
 Before my master's, I built production mobile apps (Flutter/Dart, Kotlin, Java). Today I combine that engineering background with data analysis, statistics and machine learning.
 
-- 🔭 Working on: data science and analytics projects, computer vision
+- 🔭 Working on: data science and analytics projects, computer vision, and RuhrTransit (a Flutter public transport app)
 - 🌱 Learning: Bayesian modelling, advanced ML, and more
 - 💼 Previously: Research Assistant at **mechIC GmbH** (Flutter / NFC sensor apps, GitLab CI/CD), and roles at Fiber@Home Global Ltd. and Ahsan Technologies Ltd.
 
@@ -56,6 +56,7 @@ Also: BLoC / MVVM, Kotlin Coroutines, REST APIs, Statsmodels, PyMC, ArviZ.
 
 | Project | Description | Tech |
 |---|---|---|
+| [🚆 RuhrTransit](https://github.com/ShawnMuktadir/ruhr_transit) | Public transport companion app for the Ruhr area (Android, iOS in development). | Dart / Flutter |
 | [⚽ Money-and-Success-in-Football](https://github.com/ShawnMuktadir/Money-and-Success-in-Football) | Analysis of how financial strength relates to on-pitch performance across Europe's top five leagues, and whether league titles are predictable. | Python, HTML |
 | [🚖 Ride-Share-Application](https://github.com/ShawnMuktadir/Ride-Share-Application) | Ride-sharing app using Dijkstra's algorithm and the Haversine formula for shortest routes. Riders send requests; drivers accept or cancel. | Java |
 | [🛍️ Pink_Trisha](https://github.com/ShawnMuktadir/Pink_Trisha) | Online e-commerce mobile app. | Dart / Flutter |
@@ -70,8 +71,12 @@ Also: BLoC / MVVM, Kotlin Coroutines, REST APIs, Statsmodels, PyMC, ArviZ.
 
 <div align="center">
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawnMuktadir&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMuktadir&layout=compact&theme=tokyonight&hide_border=true)
+![Profile details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+![Top languages](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![Most commit language](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
+![Stats](./profile-summary-card-output/tokyonight/3-stats.svg)
 
 </div>
 
