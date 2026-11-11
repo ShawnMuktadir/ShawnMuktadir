@@ -56,7 +56,7 @@ Also: BLoC / MVVM, Kotlin Coroutines, REST APIs, Statsmodels, PyMC, ArviZ.
 
 | Project | Description | Tech |
 |---|---|---|
-| [🚆 RuhrTransit](https://github.com/ShawnMuktadir/ruhr_transit) | Public transport companion app for the Ruhr area (Android, in development). | Dart / Flutter |
+| [🚆 RuhrTransit](https://github.com/ShawnMuktadir/ruhr_transit) | Public transport companion app for the Ruhr area (Android, iOS). | Dart / Flutter |
 | [⚽ Money-and-Success-in-Football](https://github.com/ShawnMuktadir/Money-and-Success-in-Football) | Analysis of how financial strength relates to on-pitch performance across Europe's top five leagues, and whether league titles are predictable. | Python, HTML |
 | [🚖 Ride-Share-Application](https://github.com/ShawnMuktadir/Ride-Share-Application) | Ride-sharing app using Dijkstra's algorithm and the Haversine formula for shortest routes. Riders send requests; drivers accept or cancel. | Java |
 | [🛍️ Pink_Trisha](https://github.com/ShawnMuktadir/Pink_Trisha) | Online e-commerce mobile app. | Dart / Flutter |
